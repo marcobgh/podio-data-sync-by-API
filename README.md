@@ -1,5 +1,4 @@
-# Podio Data Sync
-
+# Sincronização de dados no Podio via API
 Automação de atualização cadastral integrada ao Podio, com consulta em tempo real à base da Receita Federal.
 
 ## Sobre o Projeto
